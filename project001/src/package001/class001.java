@@ -11,12 +11,12 @@ public class class001 {
     static int result;
     
 	public static void main(String[] args) {
-	   numA = sc.nextInt();¡¡
+	   numA = sc.nextInt();
 	   numB = sc.nextInt();
 	   result = numA+numB;
 	   
-		if (result >= 3) {
-			System.out.println(a);	
+		if (result >= 4) {
+			System.out.println(a);
 		} else {
 			System.out.println(b);	   
 		}
