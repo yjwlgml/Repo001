@@ -11,7 +11,7 @@ public class class001 {
     static int result;
     
 	public static void main(String[] args) {
-	   numA = sc.nextInt();
+	   numA = sc.nextInt();¡¡
 	   numB = sc.nextInt();
 	   result = numA+numB;
 	   
